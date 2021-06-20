@@ -1,5 +1,6 @@
 {
   "name": "codepen",
+  "homepage": "https://jkanagha.github.io/codepen/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
